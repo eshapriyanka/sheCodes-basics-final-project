@@ -17,4 +17,4 @@ Use the following JS functionalities
 let, if, else, alert, prompt, event
 
 🖼 Image uploader
-If you need to use images from your computer, you can use this image uploader to include your images on your project.
+If you need to use images from your computer, you can use the image uploader to include your images on your project.
