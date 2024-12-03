@@ -18,3 +18,6 @@ let, if, else, alert, prompt, event
 
 🖼 Image uploader
 If you need to use images from your computer, you can use the image uploader to include your images on your project.
+
+Project done in single file including html,css,js.
+submitted online link : https://www.shecodes.io/cohorts/1998/projects/2335172
